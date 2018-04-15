@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-04-16T11:04:53+12:00</updated><id>http://localhost:4000/</id><title type="html">Bits and Bytes</title><subtitle>Stuff</subtitle><author><name>Your Name</name></author><entry><title type="html">The State of Automation - Lighting</title><link href="http://localhost:4000/home/automation/the-state-of-automation/" rel="alternate" type="text/html" title="The State of Automation - Lighting" /><published>2018-04-15T00:00:00+12:00</published><updated>2018-04-15T00:00:00+12:00</updated><id>http://localhost:4000/home/automation/the-state-of-automation</id><content type="html" xml:base="http://localhost:4000/home/automation/the-state-of-automation/">&lt;h2 id=&quot;the-state-of-automation---lighting&quot;&gt;The State of Automation - Lighting&lt;/h2&gt;
+
+&lt;p&gt;On one side of my family, I lag quite a bit in the automation stakes.  My father-in-law leverages many of the consumer options such as Philips Hue, Belkin WeMo, NetAtmo, etc. with a healthy dash of scripting and open source including &lt;a href=&quot;https://www.openhab.org/&quot; title=&quot;OpenHAB&quot;&gt;OpenHAB&lt;/a&gt;.  My sister-and-brother-in-law take a more DIY approach to the level of even etching their own PCBs.&lt;/p&gt;
+
+&lt;p&gt;So it seems I’m somewhere in the middle in approach, at least…&lt;/p&gt;
+
+&lt;h3 id=&quot;light-bulbs&quot;&gt;Light Bulbs&lt;/h3&gt;
+&lt;p&gt;I had three goals with smart bulbs:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Dimmable in the lounge for when watching television and the rare morsel of evening gaming&lt;/li&gt;
+  &lt;li&gt;A coloured light/nightlight for shits and giggles in the kids room&lt;/li&gt;
+  &lt;li&gt;Do away with the need for low-wattage desk/floor lamps for baby’s room&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;While not as exhaustive as overseas, there are a few options in the New Zealand market such as LIFX, TP-Link, iGlo and, of course, Hue.&lt;/p&gt;
+
+&lt;p&gt;After some looking around, I finally took a dive down the Philips Hue hole based on it not being Wi-Fi dependent and also boasting the widest integration support.  My first mistake was reducing the 2x 3-bulb bayonet “chandelier” to a 2x 2-bulb edison frosted fixture.  Moving from the 6x 10W+ CFLs to 4x 800lm impeded by the frosting is delivering a more noticeably lower light output than expected.  Now the question is whether to reneg back to fixtures similar to the old ones - which is feasible due to the previous owners penchant for 3-bulb fixtures in &lt;strong&gt;every&lt;/strong&gt; room barring the bathroom - but it will mean picking up some bayonet Hue bulbs and having 4 edison ones surplus to requirements.  The decision also forks at whether to spend $20 more for the dual-temperature which I think would go some way to making the room brighter again.&lt;/p&gt;</content><author><name>Your Name</name></author><summary type="html">The State of Automation - Lighting</summary></entry></feed>
