@@ -16,9 +16,11 @@ The next internal quandry, as I mentioned before, was either come to terms with 
 So far the only thing that I have bumped into was the fact that I am faced with the unavoidable re-purchase Affinity Designer from Serif for Windows.  I'm deferring that for now.
 
 Here are some of the equivalents I matched up:
+
+
 | Mac OS                                          | Windows                                            |
-| Installed via [Homebrew](https://brew.sh/) when possible | Installed via [Chocolatey](https://chocolatey.org/) when possible            |
-| ------------------------------------------------|----------------------------------------------------|
+| Installed via [Homebrew](https://brew.sh/) when possible | Installed via [Chocolatey](https://chocolatey.org/) when possible |
+| --- | --- |
 | iTerm2                                          | ConEmu                                             |
 | Bash Native                                     | Bash via WSL/Ubuntu 18.04                          |
 | mtr, dig, whois                                 | winmtr-redux, bind-toolsonly, whois                |
