@@ -36,7 +36,7 @@ comments:
     # https://developers.facebook.com/docs/plugins/comments
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : dirt
 staticman:
   allowedFields          : # ['name', 'email', 'url', 'message']
   branch                 : # "master"
@@ -97,7 +97,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Damian Kissick"
+  name             : "Damian"
   avatar           : "https://avatars.githubusercontent.com/dm-0"
   bio              : "Network Engineer and Minigolf Afficionado"
   location         : "Wellington, NZ"
@@ -207,6 +207,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - remote-remote-theme
+  - jekyll-include-cache
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -216,6 +217,7 @@ whitelist:
   - jekyll-feed
   - jemoji
   - remote-remote-theme
+  - jekyll-include-cache
 
 
 # Archives
