@@ -24,4 +24,6 @@ Here are some of the equivalents I matched up:
 | mtr, dig, whois                                 | winmtr-redux, bind-toolsonly, whois                |
 | XQuartz                                         | VcXsrv                                             |
 
-While the experience so far is less fluid for my command-line dalliances (a bit more learning to be done on ConEmu) over the variety of shells - Powershell, Bash, CMD and admin variations - I can use 
+Currently the experience is far from optimised for my command-line dalliances (a bit more learning to be done on ConEmu) over the variety of shells - Powershell, Bash, CMD and admin variations - but I'm getting there.  The added benefits of a more-native docker, Hyper-V and the occasional game that I couldn't play on my old Macbook makes up for it anyway.
+
+Only time will tell if I don't simply install Ubuntu instead!
