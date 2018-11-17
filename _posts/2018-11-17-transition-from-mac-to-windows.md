@@ -23,3 +23,5 @@ Here are some of the equivalents I matched up:
 | Bash Native                                     | Bash via WSL/Ubuntu 18.04                          |
 | mtr, dig, whois                                 | winmtr-redux, bind-toolsonly, whois                |
 | XQuartz                                         | VcXsrv                                             |
+
+While the experience so far is less fluid for my command-line dalliances (a bit more learning to be done on ConEmu) over the variety of shells - Powershell, Bash, CMD and admin variations - I can use 
