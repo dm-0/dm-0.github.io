@@ -1,5 +1,5 @@
 ---
-title: Being a Digital Parent
-categories: ''
+title: Digital Parenting - Game Console Parental Controls
+categories: digital parenting
 
 ---
